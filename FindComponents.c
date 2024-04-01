@@ -1,7 +1,4 @@
 // /****************************************************************************************
-// *  Ugonna Ezeokoli
-// *  uezeokol
-// *  2024 Winter CSE101 PA3 
 // *  FindComponents.c
 // *  Determines strongly connected components of initialized digraph
 // *****************************************************************************************/
